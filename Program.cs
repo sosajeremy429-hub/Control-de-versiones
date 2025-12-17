@@ -14,7 +14,7 @@ namespace Control_de_versiones
         [STAThread]
         static void Main()
         {
-            MessageBox.Show("Proyecto de control de versiones con Git");
+            MessageBox.Show("Cambio realizado con exito!");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
